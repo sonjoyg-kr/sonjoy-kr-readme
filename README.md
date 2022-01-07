@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 ### Skills 
 <br>
 <a <href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-<img align='right' src="https://giphy.com/embed/I06yCBkUWpOzRPpVLf/giphy.gif" width="230">
+<img align='right' src="https://media0.giphy.com/media/I06yCBkUWpOzRPpVLf/giphy.gif" width="230">
