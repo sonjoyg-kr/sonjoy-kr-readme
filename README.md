@@ -1,7 +1,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/sonjoyg-kr/count.svg)
-<div style="text-align: right">
-<img src="https://www.timeanddate.com/worldclock/fullscreen.html?n=1440" width="120" height="100">
-</div>
+![UTC Time](https://www.timeanddate.com/worldclock/fullscreen.html?n=1440)
+
 
 
 - 👋 Hi, I’m @sonjoyg-kr
