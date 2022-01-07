@@ -1,6 +1,5 @@
 [Visitor Count](https://profile-counter.glitch.me/sonjoyg-kr/count.svg)
 
-<img align='right' src="Visitor Count" width="230">
 
 - 👋 Hi, I’m @sonjoyg-kr
 - 👀 I’m interested in Java, Python, Javascript and SQL. 
