@@ -11,4 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Skills 
-[![Java][	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white]]
+<div align="center">  
+<img style="margin: 10px" src="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="CSS3" height="50" />
+</div>
