@@ -1,3 +1,7 @@
+[Visitor Count](https://profile-counter.glitch.me/sonjoyg-kr/count.svg)
+
+
+
 - 👋 Hi, I’m @sonjoyg-kr
 - 👀 I’m interested in Java, Python, Javascript and SQL. 
 - 🌱 I’m currently learning Python.
