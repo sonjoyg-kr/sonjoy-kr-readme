@@ -1,4 +1,4 @@
-[Visitor Count](https://profile-counter.glitch.me/sonjoyg-kr/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/sonjoyg-kr/count.svg)
 
 
 - 👋 Hi, I’m @sonjoyg-kr
