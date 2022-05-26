@@ -1,5 +1,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/sonjoyg-kr/count.svg)
-![UTC Time](https://www.timeanddate.com/worldclock/fullscreen.html?n=1440)
+![UTC Time](https://www.timeanddate.com/worldclock/timezone/utc)
 
 
 
