@@ -38,3 +38,7 @@
 <img align='right' alt="Gif" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
 
 
+<br/>
+<br/>
+<img aligh='left' alt = "Sonjoy's Github Status" src= "https://github-readme-stats.vercel.app/api?username=sonjoyg-kr&show_icons=true&hide_border=true" />
+
