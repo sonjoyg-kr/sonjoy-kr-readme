@@ -18,6 +18,7 @@
 <img align='left' alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
 <br/>
+
 ### Tools:
 <img align='left' alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align='left' alt="Intellij" width="26px" src="./img/intellij-idea.svg" style="padding-right:10px;" />
