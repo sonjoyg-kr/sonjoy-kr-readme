@@ -33,12 +33,19 @@
 <img align='left' alt="Selenium" width="26px" src="./img/selenium.svg" style="padding-right:10px;" />
 <img align='left' alt="Appium" width="26px" src="./img/appium.svg" style="padding-right:10px;" />
 <img align='left' alt="Android" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" style="padding-right:10px;" />
-
-
 <img align='right' alt="Gif" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
 
-
 <br/>
 <br/>
-<img aligh='left' alt = "Sonjoy's Github Status" src= "https://github-readme-stats.vercel.app/api?username=sonjoyg-kr&show_icons=true&hide_border=true" />
+<br/>
 
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
+
+<details>
+  <summary>⚡ GitHub Stats</summary>
+<img align='left' alt = "Sonjoy's Github Status" src= "https://github-readme-stats.vercel.app/api?username=sonjoyg-kr&show_icons=true&hide_border=true" />
+</details>
