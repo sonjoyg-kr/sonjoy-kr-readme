@@ -1,7 +1,12 @@
+<div align='center'>
+  
+<a href="">![GitHub last commit](https://img.shields.io/github/last-commit/sonjoyg-kr/sonjoy-kr-readme?style=for-the-badge)</a>
+<a href="">![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sonjoyg-kr/sonjoy-kr-readme?logo=github&style=for-the-badge)</a>
+<a href="">![GitHub last commit](https://img.shields.io/github/last-commit/sonjoyg-kr/sonjoy-kr-readme?style=for-the-badge)</a>  
+
+</div>
+
 ### Visitor Count &nbsp;&nbsp; <img src="https://profile-counter.glitch.me/sonjoyg-kr/count.svg" height="20"/>
-
-
-
 
 ## 👋 there ! I'm Sonjoy. Thank your for your interest. ㊗️ 🙌
 
