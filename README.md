@@ -9,7 +9,7 @@
 - ⚡ **Fun fact:** Soccer fan and will go to camping & hiking. Riding motorcycle is fun.
 
 
-###Connect with me:
+### Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sonjoy-ghosh-59273137#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sonjoy-ghosh-59273137#gh-dark-mode-only)
 &nbsp;&nbsp;
