@@ -1,7 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/sonjoyg-kr/count.svg)
-------------------------
-
-# 👋 there ! I'm sonjoy.  Thank you for your visit today. 🙏
+## 👋 there ! I'm Sonjoy and you are &nbsp;<img src="https://profile-counter.glitch.me/sonjoyg-kr/count.svg" height="20"/> visitor on this page. <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thank your for your interest. ㊗️ 🙌
 
 - 👀 **Interested in:** Java, Python, Javascript and SQL. 
 - 🌱 **Current activity:** Learning everything.
@@ -15,10 +12,13 @@
 &nbsp;&nbsp;
 
 
-### Languages and Tools:
+### Languages:
 <img align='left' alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align='left' alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
 <img align='left' alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+
+<br/>
+### Tools:
 <img align='left' alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align='left' alt="Intellij" width="26px" src="./img/intellij-idea.svg" style="padding-right:10px;" />
 <img align='left' alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -33,12 +33,12 @@
 <img align='left' alt="Selenium" width="26px" src="./img/selenium.svg" style="padding-right:10px;" />
 <img align='left' alt="Appium" width="26px" src="./img/appium.svg" style="padding-right:10px;" />
 <img align='left' alt="Android" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" style="padding-right:10px;" />
-<img align='right' alt="Gif" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
+<img align='right' alt="Gif" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
+
 
 <br/>
 <br/>
 <br/>
-
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   
@@ -54,3 +54,7 @@
   <summary>⚡ GitHub Stats</summary>
 <img align='left' alt = "Sonjoy's Github Status" src= "https://github-readme-stats.vercel.app/api?username=sonjoyg-kr&show_icons=true&hide_border=true" />
 </details>
+
+<br/>
+
+➡ *Inspired By* : [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
