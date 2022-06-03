@@ -1,21 +1,22 @@
 ![Visitor Count](https://profile-counter.glitch.me/sonjoyg-kr/count.svg)
-![UTC Time](https://www.timeanddate.com/worldclock/timezone/utc)
+------------------------
+### Hi there ! I'm sonjoy 👋. Thanks for your interest.  
+------------------------
 
-
-
-- 👋 Hi, I’m @sonjoyg-kr
 - 👀 I’m interested in Java, Python, Javascript and SQL. 
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on custom Python scripts to automate repetaive/boring tasks.
-- 📫 sonjoy.ghosh@kroger.com 
-
-<!---
-sonjoyg-kr/sonjoyg-kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
-### Skills 
-<br>
-<a <href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+
+### Languages and Tools:
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="androidstudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
+
+<br/>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
