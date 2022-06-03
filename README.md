@@ -1,11 +1,12 @@
 ![Visitor Count](https://profile-counter.glitch.me/sonjoyg-kr/count.svg)
 ------------------------
 
-# Hi there ! I'm SONJOY 👋 Thank you for your interest.
+# 👋 there ! I'm sonjoy.  Thank you for your visit today. 🙏
 
-- 👀 I’m interested in Java, Python, Javascript and SQL. 
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on custom Python scripts to automate repetaive/boring tasks.
+- 👀 **Interested in:** Java, Python, Javascript and SQL. 
+- 🌱 **Current activity:** Learning everything.
+- 💞️ **Looking for:** Any POC, finding custom solutions, scripting repetitive work.
+- ⚡ **Fun fact:** Soccer fan and will go to camping & hiking. Riding motorcycle is fun.
 
 
 
