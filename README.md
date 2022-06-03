@@ -41,6 +41,7 @@
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
+  
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/sonjoyg-kr/sonjoyg-kr/pull/2) in [sonjoyg-kr/sonjoyg-kr](https://github.com/sonjoyg-kr/sonjoyg-kr)
 2. 💪 Opened PR [#2](https://github.com/sonjoyg-kr/sonjoyg-kr/pull/2) in [sonjoyg-kr/sonjoyg-kr](https://github.com/sonjoyg-kr/sonjoyg-kr)
