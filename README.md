@@ -1,4 +1,6 @@
-## 👋 there ! I'm Sonjoy and you are &nbsp;<img src="https://profile-counter.glitch.me/sonjoyg-kr/count.svg" height="20"/> visitor on this page. <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thank your for your interest. ㊗️ 🙌
+<img src="https://profile-counter.glitch.me/sonjoyg-kr/count.svg" height="20"/>
+
+## 👋 there ! I'm Sonjoy. Thank your for your interest. ㊗️ 🙌
 
 - 👀 **Interested in:** Java, Python, Javascript and SQL. 
 - 🌱 **Current activity:** Learning everything.
