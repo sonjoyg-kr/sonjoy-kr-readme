@@ -2,11 +2,11 @@
   
 <a href="">![GitHub last commit](https://img.shields.io/github/last-commit/sonjoyg-kr/sonjoy-kr-readme?style=for-the-badge)</a>
 <a href="">![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sonjoyg-kr/sonjoy-kr-readme?logo=github&style=for-the-badge)</a>
-<a href="">![GitHub last commit](https://img.shields.io/github/last-commit/sonjoyg-kr/sonjoy-kr-readme?style=for-the-badge)</a>  
+<a href="">![GitHub Release Date](https://img.shields.io/github/release-date/sonjoyg-kr/sonjoy-kr-readme?logo=github&style=for-the-badge)</a> 
+ <a href="">![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/sonjoyg-kr/sonjoy-kr-readme?logo=github&style=for-the-badge)</a>  
 
 </div>
 
-### Visitor Count &nbsp;&nbsp; <img src="https://profile-counter.glitch.me/sonjoyg-kr/count.svg" height="20"/>
 
 ## 👋 there ! I'm Sonjoy. Thank your for your interest. ㊗️ 🙌
 
@@ -69,6 +69,8 @@
 
 <br/>
 
-➡ *Inspired By* : [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 
-[visitors]: https://profile-counter.glitch.me/sonjoyg-kr/count.svg
+---
+➡ *Inspired By* : [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+### Visitor Count &nbsp;&nbsp; <img src="https://profile-counter.glitch.me/sonjoyg-kr/count.svg" height="20"/>
+
