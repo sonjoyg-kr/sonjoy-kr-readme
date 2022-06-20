@@ -8,7 +8,7 @@
 </div>
 
 
-## 👋 there ! I'm Sonjoy. Thank your for your interest. ㊗️ 🙌
+## 👋 there ! Thank your for your interest. ㊗️ 🙌
 
 - 👀 **Interested in:** Java, Python, Javascript and SQL. 
 - 🌱 **Current activity:** Learning everything.
